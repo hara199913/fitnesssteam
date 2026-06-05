@@ -34,3 +34,4 @@ jobs:
         with:
           branch: gh-pages
           path: /
+          enablement: true
